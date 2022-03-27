@@ -15,5 +15,5 @@ Made this cos the nicovideo downloaders online all seem very sus
 
 _If you want the video, skip the `extractAudio()` step and use `combine(".ts")`_
 
-# To do:
+# To do
 make it so that you're able to download by just using the link to the video
