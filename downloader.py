@@ -30,4 +30,6 @@ def combine(ext):
     os.system('ffmpeg -f concat -safe 0 -i "%s" -c copy "%s\output%s"' % (DIR + "\list.txt", DIR, ext))
     #os.system('ffmpeg -i "%s\output.aac" "%s\output.mp3"' % (DIR, DIR))
 
+download()
+extractAudio()
 combine(".aac")
