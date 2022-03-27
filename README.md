@@ -4,3 +4,6 @@ Downloads the video in the quality that you're able to view at. *Does NOT allow 
 Allows you to extract audio only
 
 Made this cos the nicovideo downloaders online all seem very sus
+
+# To do:
+make it so that you're able to download by just using the link to the video
